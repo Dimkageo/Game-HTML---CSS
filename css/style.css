@@ -71,19 +71,19 @@ a{
 }
 .game__body:before{
 	background-color:yellow;
-	animation: fly_1 3s infinite;
+	animation: fly_1 5s infinite;
 }
 .game__body:after{
 	background-color: blue;
-	animation: fly_2 7s infinite;
+	animation: fly_2 9s infinite;
 }
 .game__items:before{
 	background-color: green;
-	animation: fly_3 5s infinite;
+	animation: fly_3 7s infinite;
 }
 .game__items:after{
 	background-color: red;
-	animation: fly_4 11s infinite;
+	animation: fly_4 15s infinite;
 }
 @keyframes fly_1{
 	25% {transform: translate(66.667vw, 0vh);}
