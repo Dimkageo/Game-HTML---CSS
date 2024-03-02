@@ -71,15 +71,15 @@ a{
 }
 .game__body:before{
 	background-color:yellow;
-	animation: fly_1 5s infinite;
+	animation: fly_1 7s infinite;
 }
 .game__body:after{
 	background-color: blue;
-	animation: fly_2 9s infinite;
+	animation: fly_2 11s infinite;
 }
 .game__items:before{
 	background-color: green;
-	animation: fly_3 7s infinite;
+	animation: fly_3 9s infinite;
 }
 .game__items:after{
 	background-color: red;
